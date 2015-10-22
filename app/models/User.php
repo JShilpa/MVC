@@ -3,7 +3,7 @@
 class User 
 {
 
-
+//
 	public $name;
 }
 
